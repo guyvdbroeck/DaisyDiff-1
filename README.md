@@ -49,7 +49,7 @@ The DaisyDiff algorithm has been integrated in MediaWiki. However, it had major 
 
 # Acknowledgements
 
- * Guy Van den Broeck <guy@guyvdb.eu>
+ * Guy Van den Broeck <guyvdb@cs.ucla.edu>
  * Daniel Dickison
  * Antoine Taillefer
  * Thomas Roger
